@@ -1,10 +1,10 @@
 {
   "name": "mux.js",
-  "version": "6.0.1-optimus2",
+  "version": "6.0.1-optimus-4",
   "description": "A collection of lightweight utilities for inspecting and manipulating video container formats.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/videojs/mux.js.git"
+    "url": "https://github.com/CoryParkinson/mux.js.git"
   },
   "main": "./cjs/index.js",
   "module": "es/index.js",
